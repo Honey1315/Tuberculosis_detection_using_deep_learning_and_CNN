@@ -1,2 +1,5 @@
 env
 Tuberculosis_dataset
+.env
+snapshots_trial
+.DS_Store
